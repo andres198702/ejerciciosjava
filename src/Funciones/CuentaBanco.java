@@ -35,7 +35,7 @@ public class CuentaBanco {
             System.out.println("¿Que deseas hacer el dia de hoy");
             System.out.println("1. Consultar saldo");
             System.out.println("2. Hacer retiros");
-            System.out.println("3. Hacer consignacion");
+            System.out.println("3. Hacer consignacion ");
             System.out.println("4. Salir");
 
             Scanner escanner=new Scanner(System.in);
